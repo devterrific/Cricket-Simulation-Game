@@ -17,4 +17,4 @@ A simple cricket simulation game implemented in Python.
 ### Running the Game
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/Cricket-Simulation-Game.git
+   git clone https://github.com/devterrific/Cricket-Simulation-Game.git
