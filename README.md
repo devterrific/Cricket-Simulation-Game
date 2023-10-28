@@ -12,7 +12,7 @@ A simple cricket simulation game implemented in Python.
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x
+- Python 3.10
 
 ### Running the Game
 1. Clone the repository to your local machine:
